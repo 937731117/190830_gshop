@@ -27,4 +27,28 @@ npm run e2e
 npm test
 ```
 
+#这是我的第一个上传到GitHub的vue项目
+
+#目前还不知道在做什么，随便瞎搞
+
+1、全局安装vue
+npm i vue -g，如果你还没下载npm，麻烦去百度
+
+2、全局安装vue-cli
+npm i vue-cli -g
+
+3、用vue-cli生成了一个vue项目
+
+vue init webpack 你的项目名称
+
+#这是一个打算做成web app的项目，里面有什么东西让我想想
+
+1、里面使用了一些mint-ui组件
+
+2、将一些需要更改的数据都放在component/config  or  pages/config 中，方便修改
+   例如：底部按钮文字或图片、banner图片
+   
+3、使用了vue的图片懒加载
+
+
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
